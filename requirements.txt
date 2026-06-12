@@ -1,0 +1,7 @@
+gradio>=5.0.0
+huggingface_hub>=0.20.0
+smolagents>=1.0.0
+pandas
+numpy
+pillow
+requests
